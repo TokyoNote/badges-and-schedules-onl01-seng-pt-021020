@@ -1,2 +1,3 @@
 def batch_badge_creator
-  name = [Edsger, Ada, Charles, Alan, Grace, Linus, and Matz]
+  name = ["Edsger","Ada","Charles","Alan","Grace","Linus","Matz"]
+  
